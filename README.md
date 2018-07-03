@@ -21,9 +21,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Goals/Check List
 1. Core Mechanics
-  * Cannons shoot cannon balls and interact with objects
-  * Implement cannon ball physics (drop and charge)
-  * Create VR environment
+  * ~~Cannons shoot cannon balls and interact with objects~~
+  * ~~Implement cannon ball physics~~
+  * ~~Create VR environment~~
   
   [Progress clip 0](https://media.giphy.com/media/LUQ6WC0pFwB7213LWJ/giphy.gif)
 
@@ -44,7 +44,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 5. Apply art and shaders:
   * Ocean Shader
-  * Sky box
+  * ~~Sky box~~
   * Ocean, wind, cannon blast, and boat sound(for identification in terms of 360 audio to determine direction of incoming boat)
 
 6. Scenes:
