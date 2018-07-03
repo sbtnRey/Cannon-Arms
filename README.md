@@ -24,6 +24,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   * Cannons shoot cannon balls and interact with objects
   * Implement cannon ball physics (drop and charge)
   * Create VR environment
+  
+  ![](https://media.giphy.com/media/LUQ6WC0pFwB7213LWJ/giphy.gif)
 
 2. Environment
   * Island and Trees
