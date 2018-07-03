@@ -25,7 +25,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   * ~~Implement cannon ball physics~~
   * ~~Create VR environment~~
   
-  [Progress clip 0](https://media.giphy.com/media/LUQ6WC0pFwB7213LWJ/giphy.gif)
+    [Progress clip 0](https://media.giphy.com/media/LUQ6WC0pFwB7213LWJ/giphy.gif)
 
 2. Environment
   * Island and Trees
