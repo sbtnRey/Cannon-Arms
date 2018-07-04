@@ -6,11 +6,13 @@ A VR tower defense game in which one is defending the island they are on from in
 Additional Information about development can be found here: http://web.cecs.pdx.edu/~reynx/_build/html/index.html
 
 ## Build instructions
-To run the game one has to use an older version of Unity (2017.1.0), this is due to using the VRTK library as a new one is still in development and still lacks many of the tools used for this games development. Both VRTK and the SteamVR libraries are included in the build. 
+To run the game one has to use an older version of Unity (2017.1.0), this is due to using the VRTK library as a new one is still in development and still lacks many of the tools used for this games development. One also needs to download both VRTK and the SteamVR plugin (The Unity asset store is the easiest way to do download them) and place both libraries in the assets folder.
 
 ### Prerequisites
 * HTC Vive (HardWare)
-* Unity 2017.1.0
+* [Unity 2017.1.0](https://unity3d.com/unity/whats-new/unity-2017.1.0)
+* [SteamVR Plugin](https://assetstore.unity.com/packages/templates/systems/steamvr-plugin-32647)
+* [VRTK](https://assetstore.unity.com/packages/tools/vrtk-virtual-reality-toolkit-vr-toolkit-64131)
 
 ## Author
 
