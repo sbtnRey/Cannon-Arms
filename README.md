@@ -35,6 +35,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   * ~~Island and Trees~~
   * ~~Test ones relative scale to island and trees, make it feel “right”~~
   * ~~lighting~~
+  
     [Progress clip 1](https://media.giphy.com/media/3mjR4BAyhk8Z5Vmcfo/giphy.gif)
 
 3. Implement ocean/water physics
