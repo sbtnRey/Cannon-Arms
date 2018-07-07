@@ -49,7 +49,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   * Implement score for ship destruction.
 
 5. Apply art and shaders:
-  * Ocean Shader
+  * ~~Ocean Shader~~
   * ~~Sky box~~
   * Ocean, wind, cannon blast, and boat sound(for identification in terms of 360 audio to determine direction of incoming boat)
 
