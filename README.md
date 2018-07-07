@@ -32,13 +32,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     [Progress clip 0](https://media.giphy.com/media/LUQ6WC0pFwB7213LWJ/giphy.gif)
 
 2. Environment
-  * ~~Island and Trees
-  * ~~Test ones relative scale to island and trees, make it feel “right”
-  * ~~lighting
+  * ~~Island and Trees~~
+  * ~~Test ones relative scale to island and trees, make it feel “right”~~
+  * ~~lighting~~
     [Progress clip 1](https://media.giphy.com/media/3mjR4BAyhk8Z5Vmcfo/giphy.gif)
 
 3. Implement ocean/water physics
-  * ~~Get boats to float (buoyancy)
+  * ~~Get boats to float (buoyancy)~~
   * Get boats to move toward an object (then move towards headset object)
   * End scene when a ship touches the island.
 
