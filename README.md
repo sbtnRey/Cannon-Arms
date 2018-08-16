@@ -1,7 +1,7 @@
 # Cannon Arms
 Copyright &copy; 2018 Sebastian Reynolds
 
-A VR tower defense game in which one is defending their island and treasure from incoming ships with cannon arms. The game will have a score based system in which the players points will rise for each ship sunk. After a set amount of ships have been destroyed, the spawn rate and speed of the ships will increase. If a ship reaches the island it is GAME OVER.
+A VR Shoot 'Em Up game in which one is defending their island from incoming ships with cannon arms. The game will have a score based system in which the players points will rise for each ship sunk. After a set amount of ships have been destroyed, the spawn rate and speed of the ships will increase. If a ship reaches the island it is GAME OVER.
 
 
 ## Build instructions
