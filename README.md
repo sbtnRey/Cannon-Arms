@@ -40,13 +40,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 3. Implement ocean/water physics
   * ~~Get boats to float (buoyancy)~~
-  * ~~Get boats to move toward an object (then move towards headset object)
-  * ~~End scene when a ship touches the island.
+  * ~~Get boats to move toward an object (then move towards headset object)~~
+  * ~~End scene when a ship touches the island.~~
 
 4.Cannon ball and boat interactions:
-  * ~~Delete boat on cannon ball impact
-  * ~~Destroy boat into parts on impact, increase weight for segments to sink to ‘remove object’
-  * ~~Implement score for ship destruction.
+  * ~~Delete boat on cannon ball impact~~
+  * ~~Destroy boat into parts on impact, increase weight for segments to sink to ‘remove object’~~
+  * ~~Implement score for ship destruction.~~
 
 5. Apply art and shaders:
   * ~~Ocean Shader~~
