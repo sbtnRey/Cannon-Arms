@@ -17,6 +17,7 @@ To run the game one has to use an older version of Unity (2017.1.0), this is due
 ## Author
 
 **Sebastian Reynolds**
+**sxr@pdx.edu**
 
 ## License
 
