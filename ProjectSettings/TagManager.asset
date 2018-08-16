@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Water Volume
+  - enemy
+  - enemy01
+  - enemy02
+  - enemy03
+  - enemy04
+  - enemy05
   layers:
   - Default
   - TransparentFX

@@ -32,6 +32,8 @@ public class gunScript : MonoBehaviour {
     private void FireBullet()
     {
             GameObject bulletClone = Instantiate(bullet, bullet.transform.position, bullet.transform.rotation) as GameObject;
+            AudioSource shoot = GetComponent<AudioSource>();
+            shoot.Play();
             bulletClone.SetActive(true);
             Rigidbody rb = bulletClone.GetComponent<Rigidbody>();
             rb.AddForce(-bullet.transform.forward * bulletSpeed);
