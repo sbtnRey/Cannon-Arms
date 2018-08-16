@@ -5,7 +5,7 @@ A VR Shoot 'Em Up game in which one is defending their island from incoming ship
 
 
 ## Build instructions
-To run the game one has to use an older version of Unity (2017.1.0), this is due to using the VRTK library as a new one is still in development and still lacks many of the tools used for this games development. One also needs to download VRT, the SteamVR plugin (The Unity asset store is the easiest way to do download them), and the unity water buoyancy library and place all libraries in the assets folder.
+To run the game one has to use an older version of Unity (2017.1.0), this is due to using the VRTK library as a new one is still in development and still lacks many of the tools used for this games development. One also needs to download VRTK Library, the SteamVR plugin (The Unity asset store is the easiest way to do download them), and the unity water buoyancy library and place all libraries in the assets folder.
 
 ### Prerequisites
 * HTC Vive (HardWare)
