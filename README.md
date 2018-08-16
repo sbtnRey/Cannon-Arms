@@ -32,22 +32,24 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     [Progress clip 0](https://media.giphy.com/media/LUQ6WC0pFwB7213LWJ/giphy.gif)
 
 2. Environment
-  * Island and Trees
-  * Test ones relative scale to island and trees, make it feel “right”
-  * lighting
+  * ~~Island and Trees~~
+  * ~~Test ones relative scale to island and trees, make it feel “right”~~
+  * ~~lighting~~
+  
+    [Progress clip 1](https://media.giphy.com/media/3mjR4BAyhk8Z5Vmcfo/giphy.gif)
 
 3. Implement ocean/water physics
-  * Get boats to float (buoyancy)
+  * ~~Get boats to float (buoyancy)~~
   * Get boats to move toward an object (then move towards headset object)
   * End scene when a ship touches the island.
 
 4.Cannon ball and boat interactions:
-  * Delete boat on impact
+  * Delete boat on cannon ball impact
   * Destroy boat into parts on impact, increase weight for segments to sink to ‘remove object’
   * Implement score for ship destruction.
 
 5. Apply art and shaders:
-  * Ocean Shader
+  * ~~Ocean Shader~~
   * ~~Sky box~~
   * Ocean, wind, cannon blast, and boat sound(for identification in terms of 360 audio to determine direction of incoming boat)
 
