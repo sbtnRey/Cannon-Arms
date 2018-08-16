@@ -6,13 +6,14 @@ A VR tower defense game in which one is defending their island and treasure from
 Additional Information about development can be found here: http://web.cecs.pdx.edu/~reynx/_build/html/index.html
 
 ## Build instructions
-To run the game one has to use an older version of Unity (2017.1.0), this is due to using the VRTK library as a new one is still in development and still lacks many of the tools used for this games development. One also needs to download both VRTK and the SteamVR plugin (The Unity asset store is the easiest way to do download them) and place both libraries in the assets folder.
+To run the game one has to use an older version of Unity (2017.1.0), this is due to using the VRTK library as a new one is still in development and still lacks many of the tools used for this games development. One also needs to download VRT, the SteamVR plugin (The Unity asset store is the easiest way to do download them), and the unity water buoyancy library and place all libraries in the assets folder.
 
 ### Prerequisites
 * HTC Vive (HardWare)
 * [Unity 2017.1.0](https://unity3d.com/unity/whats-new/unity-2017.1.0)
 * [SteamVR Plugin](https://assetstore.unity.com/packages/templates/systems/steamvr-plugin-32647)
 * [VRTK](https://assetstore.unity.com/packages/tools/vrtk-virtual-reality-toolkit-vr-toolkit-64131)
+* [Buoyancy Library](https://github.com/dbrizov/Unity-WaterBuoyancy)
 
 ## Author
 
@@ -40,13 +41,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 3. Implement ocean/water physics
   * ~~Get boats to float (buoyancy)~~
-  * Get boats to move toward an object (then move towards headset object)
-  * End scene when a ship touches the island.
+  * ~~Get boats to move toward an object (then move towards headset object)
+  * ~~End scene when a ship touches the island.
 
 4.Cannon ball and boat interactions:
-  * Delete boat on cannon ball impact
-  * Destroy boat into parts on impact, increase weight for segments to sink to ‘remove object’
-  * Implement score for ship destruction.
+  * ~~Delete boat on cannon ball impact
+  * ~~Destroy boat into parts on impact, increase weight for segments to sink to ‘remove object’
+  * ~~Implement score for ship destruction.
 
 5. Apply art and shaders:
   * ~~Ocean Shader~~
@@ -57,4 +58,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   * Game scene
   * Menu scene
   * High score list and update function for game finish
+  
+[Gameplay of current state](https://www.youtube.com/watch?v=X-YDfyDWEmE)
 
